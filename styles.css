@@ -1,0 +1,98 @@
+body{
+    background: white;
+    padding: 0;
+    margin: 0;
+    font-family: arial,sans-serif;
+    font-size: 10pt;
+}
+
+nav{
+    margin-top: 13px;
+}
+
+nav a:link{
+    text-decoration: none;
+    color: black;
+}
+
+#sign-in{
+    background: #6666FF;
+    border: 0;
+    color: white;
+    font-weight: bold;
+    height: 31px;
+    width: 68px;
+}
+
+[alt="Google Logo"]{
+    padding-top: 11%;
+}
+
+input{
+    border-radius: 8%;
+    border: 1px;
+    border-style: solid;
+    border-color: lightgray;
+    height: 46px;
+    width: 45%;
+}
+
+.section-buttons{
+    background: #f2f2f2;
+    border: 0;
+    border-radius: 6%;
+    color: #8b8787;
+    height: 38px;
+    font-size: 11pt;
+    width: 10%;
+}
+
+#sec-paragraph a:link{
+    text-decoration: none;
+}
+
+#sec-paragraph > a:link{
+    color: blue;
+}
+
+footer{
+    color: #8b8787;
+    margin-top: 5.3%;
+    background: #f2f2f2;
+}
+
+.footer-p{
+    color: #8b8787;
+    font-size: 11pt;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.nav-p a:link{
+    color: #8b8787;
+}
+
+.footer2{
+    border-top: 1px solid #8b8787 ;
+    padding-left: 30px;
+    padding-top: 8px;
+    padding-bottom: 30px;
+}
+
+.col{
+    margin:0 auto;
+}
+
+.one{
+    width:30%;
+	padding:0 5% 0 0;
+	float: left;
+	border: 3px;
+}
+
+.two{
+    width:20%;
+	padding:0 2% 0 0;
+    float:right;
+    border: 3px;
+}
